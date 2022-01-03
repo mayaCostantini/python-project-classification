@@ -103,3 +103,8 @@ venv.bak/
 # mypy
 .mypy_cache/
 .thoth_last_analysis_id
+
+# data
+notebooks/data/
+notebooks/datasets/
+notebooks/data_samples/
